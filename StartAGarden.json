@@ -1,0 +1,65 @@
+{
+"Start a Garden": {
+    "Determine Purpose": {
+      "Vegetable Garden": {},
+      "Flower Garden": {},
+      "Herb Garden": {},
+      "Ornamental Garden": {},
+      "Container Garden": {}
+    },
+    "Select Location": {
+      "Sunlight": {
+        "Full Sun": {},
+        "Partial Shade": {},
+        "Full Shade": {}
+      },
+      "Accessibility": {
+        "Close to Home": {},
+        "Easy to Water": {}
+      },
+      "Protection": {
+        "From Pests": {},
+        "From Strong Winds": {}
+      }
+    },
+    "Soil Preparation": {
+      "Test Soil": {
+        "pH Level": {},
+        "Nutrient Levels": {}
+      },
+      "Amend Soil": {
+        "Compost": {},
+        "Fertilizer": {},
+        "Mulch": {}
+      },
+      "Tilling": {}
+    },
+    "Choose Plants": {
+      "Climate Appropriate": {},
+      "Space Requirements": {},
+      "Companion Planting": {}
+    },
+    "Planting": {
+      "Seed Starting": {
+        "Indoors": {},
+        "Outdoors": {}
+      },
+      "Transplanting": {}
+    },
+    "Watering": {
+      "Frequency": {},
+      "Methods": {
+        "Drip Irrigation": {},
+        "Soaker Hose": {},
+        "Sprinkler": {},
+        "Hand Watering": {}
+      }
+    },
+    "Maintenance": {
+      "Weeding": {},
+      "Pruning": {},
+      "Pest Control": {},
+      "Disease Management": {}
+    }
+  }
+}
