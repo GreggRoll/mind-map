@@ -5,6 +5,7 @@ This project aims to integrate mind mapping capabilities into the OpenAI API. Th
 
 For my first example I used the complex question "How do I start a garden" I had chatGPT return the mind map steps in JSON format
 and used MindMap.py to create the map
+
 ![Mind Map](mind_map.png)
 
 ## Motivation
@@ -20,15 +21,21 @@ By merging the capabilities of OpenAI's GPT models with mind mapping, we can fac
 
 ## Usage
 Install Graphviz (eventually with chocolatey)
+
 To make a mind map with Python you need to install Graphviz at this [web page](https://graphviz.org/download/).
+
 You could use also chocolatey to install Graphviz.
 
 Install pydot
+
 Now we’re ready to install pydot in the cmd (command line) or powershell:
+
 pip install pydot
 
 Add Graphviz to the path
+
 specific to your graphviz file path, mine is:
+
 os.environ["PATH"] += os.pathsep + "C:\\Program Files\\Graphviz\\bin"
 
 ## Future Work
